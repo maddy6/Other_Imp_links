@@ -1,6 +1,4 @@
 # Other_Imp_links
-Future Projectss
-
 
 https://github.com/safer41/aKountable
 
